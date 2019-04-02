@@ -30,6 +30,7 @@ N: Greta Capozzi
 D: Designer
 
 N: Giulio Galli
+E: galligiulio3@gmail.com
 D: Type Designer
 
 N: Laura Laricchiuta
