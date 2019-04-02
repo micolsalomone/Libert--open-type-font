@@ -19,6 +19,7 @@ D: Type Designer - Graphic designer
 Developer 
 
 N: Giovanni Abbatepaolo
+E: bbt.gnn@gmail.com
 W: www.bbtgnn.net
 D: Developer
 
