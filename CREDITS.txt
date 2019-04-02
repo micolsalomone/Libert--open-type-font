@@ -1,0 +1,57 @@
+PROJECT OWNER: La Scuola Open Source - Bari (Italy) - www.lascuolaopensource.xyz
+
+Acknowledgements
+
+If you make modifications be sure to add your name (N), email (E), web-address (if you have one) (W) and description (D). 
+This list is in alphabetical order.
+
+-----
+
+Tutor
+
+N: Daniele Capo
+E: capo.daniele@gmail.com
+W: www.danielecapo.com
+D: Type Designer - Graphic designer
+
+-----
+
+Developer 
+
+N: Giovanni Abbatepaolo
+W: www.bbtgnn.net
+D: Developer
+
+-----
+
+Glyphs Designers
+
+N: Greta Capozzi
+D: Designer
+
+N: Giulio Galli
+D: Type Designer
+
+N: Laura Laricchiuta
+D: Designer
+
+N: Roberto Lenza
+E: rlenza49@gmail.com
+D: Designer
+
+N: Micol Salomone
+E: blurredmicol@gmail.com
+W: www.micolsalomone.com
+D: Designer & Illustrator
+
+-----
+
+Contributors / Bug Fixers
+
+[…]
+
+-----
+
+Don’t hesitate to contact any of us to receive more info :)
+
+AD MAIORA!
